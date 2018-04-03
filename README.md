@@ -1,4 +1,4 @@
-Desafio Gestão de Contatos.
+Gestão de Contatos.
 
 O projeto foi desenvolvido utilizando NodeJS, AngularJS, Jquery e MongoDB.
 
